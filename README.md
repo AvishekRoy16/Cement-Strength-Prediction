@@ -1,2 +1,0 @@
-# Cement Strength Prediction
-
