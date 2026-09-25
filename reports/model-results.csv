@@ -1,0 +1,5 @@
+model,mae_mean_mpa,mae_std_mpa,rmse_mean_mpa,rmse_std_mpa,r2_mean,r2_std
+Random forest,3.6564,0.2291,5.2002,0.4609,0.9017,0.0167
+Gradient boosting,4.5422,0.2714,5.9764,0.4599,0.8708,0.0137
+Ridge regression,8.3276,0.4736,10.4819,0.5723,0.6021,0.0358
+Median baseline,13.4785,0.6463,16.7716,0.8511,-0.0150,0.0161
